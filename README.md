@@ -14,10 +14,10 @@ El proyecto esta desarrollado en Python. Se recomienda el uso de un entorno virt
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/casa-embrujada-hibrido.git](https://github.com/TU_USUARIO/casa-embrujada-hibrido.git)
-   cd casa-embrujada-hibrido
+   git clone https://github.com/eivoueu/Proyecto-APAUBIO-PPO-ACO.git
+   cd Proyecto-APAUBIO-PPO-ACO
    ```
-[[[[[[[[[[[PONER EL REPOSITORIO CORRECTO CUANDO LO TENGA]]]]]]]]]]]
+
 
 2. OPCIONAL Crear y activar el entorno virtual: Por si las librerías a instalar influyen en las librerías globales del sistema, pero el código debería funcionar igualmente. 
 
@@ -50,7 +50,9 @@ Para lanzar la bateria de pruebas rigurosas, el barrido de hiperparametros y el 
 El programa empezará mostrando el siguiente menú:
 
 ==================================================
+
 SISTEMA HÍBRIDO PPO + ACO
+
 ==================================================
 1. Visualizar Mapa del laberinto
 2. Ejecutar Barrido de Hiperparámetros y Ablación (Largo)
