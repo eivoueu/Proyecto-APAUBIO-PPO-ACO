@@ -6,7 +6,7 @@ El proyecto evalua una arquitectura hibrida que combina el algoritmo PPO (Proxim
 
 ## Enlace al video explicativo:
 
-https://youtu.be/BT80TALl7ZE
+[https://youtu.be/BT80TALl7ZE](https://youtu.be/fSR3Q_lWAHg)
 
 ## (a) Instrucciones de Instalacion
 
